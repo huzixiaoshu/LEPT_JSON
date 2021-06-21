@@ -7,4 +7,4 @@
 * 仅支持 UTF-8 JSON 文本
 * 仅支持以 `double` 存储 JSON number 类型
 * 解析器和生成器的代码合共少于 500 行
-## 完成所有连续，并用valgrind 测试无内存泄漏
+## 完成所有练习，并用valgrind 测试无内存泄漏
